@@ -564,7 +564,8 @@ chmod 777 scriptest.sh
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/db6a6dec-2a0c-450d-b75e-ed51d9a6513c)
+
+![image](https://github.com/user-attachments/assets/ba7f1b1e-1793-4ceb-aacd-c25a64329138)
 
 
  
